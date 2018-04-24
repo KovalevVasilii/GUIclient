@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project16.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+c:\users\user\source\repos\project16\project16\myform1.h(189): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform1.h(192): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform1.h(233): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform.h(185): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform.h(189): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform.h(219): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform.h(223): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\user\source\repos\project16\project16\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Project16.vcxproj -> C:\Users\user\source\repos\Project16\x64\Debug\GUIchat.exe
